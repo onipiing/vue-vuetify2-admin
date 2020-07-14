@@ -6,26 +6,26 @@ export const lorem = `Lorem ipsum dolor sit amet, mel at clita quando.
    vim in, mollis iriure nec cu, alienum argumentum ius ad. Pri eu justo aeque torquatos.`;
 
 export const landingInfo = {
-  title: 'Vue Vuetify Admin',
-  email: 'example@mail.com',
-  phone: '+79876543210',
-  adres: 'Yekaterinburg',
+  title: 'Vue Vuetify2 Admin',
+  email: 'brainsolution@zohomail.eu',
+  phone: '+(241) 234-5459',
+  adres: 'BrainSolution',
 };
 
 export const userAdmin = {
-  email: 'admin@vvadmin.io',
+  email: 'admin@admin.io',
   password: 'abcd1234',
-  user: 'NelsonEAX',
+  user: 'BrainSolution',
   status: 'admin',
   code: '',
   token: '3b759a9ca80234563d87672350659b2b',
-  name: 'Nikolaev Nikolay',
-  avatar: 'https://avatars.githubusercontent.com/u/13101802',
+  name: 'BrainSolution',
+  avatar: '',
   roles: ['admin', 'editor'],
 };
 
 export const userEditor = {
-  email: 'editor@vvadmin.io',
+  email: 'editor@admin.io',
   password: 'abcd1234',
   user: 'Editor',
   status: '',
