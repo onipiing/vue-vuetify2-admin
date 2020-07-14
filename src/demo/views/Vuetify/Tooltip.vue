@@ -103,7 +103,6 @@
               <v-row
                 class="flex"
 
-
                 justify="space-between"
               >
                 <v-col cols="12">

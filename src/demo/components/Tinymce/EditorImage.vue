@@ -9,7 +9,7 @@
         <v-btn
           class="info"
           :style="{background: color,borderColor: color}"
-          @click="dialogVisible= = rue"
+          @click="dialogVisible === rue"
           v-on="on"
         >
           upload
@@ -99,7 +99,7 @@ export default {
     handleSuccess(response, file) {
       const { uid } = file;
       const objKeyArr = Object.keys(this.listObj);
-      for (let i = 0, len = objKeyArr.length; i < len; i++) {
+      for (let i = 0, len = objKeyArr.length; i < len; i += 1) {
         if (this.listObj[objKeyArr[i]].uid === uid) {
           this.listObj[objKeyArr[i]].url = response.files.file;
           this.listObj[objKeyArr[i]].hasSuccess = true;
@@ -110,7 +110,7 @@ export default {
     handleRemove(file) {
       const { uid } = file;
       const objKeyArr = Object.keys(this.listObj);
-      for (let i = 0, len = objKeyArr.length; i < len; i++) {
+      for (let i = 0, len = objKeyArr.length; i < len; i += 1) {
         if (this.listObj[objKeyArr[i]].uid === uid) {
           delete this.listObj[objKeyArr[i]];
           return;

@@ -111,8 +111,8 @@
 </template>
 
 <script>
-import Localization from '../widget/AppLocalization.vue';
 import { userAdmin, userEditor } from '@/api/mock';
+import Localization from '../widget/AppLocalization.vue';
 
 export default {
   name: 'SingIn',

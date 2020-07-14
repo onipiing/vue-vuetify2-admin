@@ -22,8 +22,8 @@
 <script>
 import Driver from 'driver.js'; // import driver.js
 import 'driver.js/dist/driver.min.css'; // import driver.js css
-import steps from './defineSteps';
 import AppCenter from '@/views/widget/AppCenter.vue';
+import steps from './defineSteps';
 
 export default {
   name: 'Guide',

@@ -2,7 +2,7 @@
 
 <p align="center">
   <img width="100" src="https://camo.githubusercontent.com/728ce9f78c3139e76fa69925ad7cc502e32795d2/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67">
-  <img width="100" src="https://github.com/NelsonEAX/vue-vuetify-admin/blob/master/public/img/icons/android-icon-96x96.png?raw=true">
+  <img width="100" src="https://github.com/brainsolution/vue-vuetify2-admin/blob/master/public/img/icons/android-icon-96x96.png?raw=true">
   <img width="100" src="https://camo.githubusercontent.com/41759602ad091b02adf7b4986b55b0a870471b98/68747470733a2f2f63646e2e767565746966796a732e636f6d2f696d616765732f6c6f676f732f6c6f676f2e737667">
 </p>
 
@@ -13,14 +13,14 @@
   <a href="https://github.com/vuetifyjs/vuetify">
     <img src="https://img.shields.io/badge/vuetify-2.1.15-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://travis-ci.org/NelsonEAX/vue-vuetify-admin" rel="nofollow">
-    <img src="https://travis-ci.org/NelsonEAX/vue-vuetify-admin.svg?branch=master" alt="Build Status">
+  <a href="https://travis-ci.org/brainsolution/vue-vuetify2-admin" rel="nofollow">
+    <img src="https://travis-ci.org/brainsolution/vue-vuetify2-admin.svg?branch=master" alt="Build Status">
   </a>
-  <a href="https://github.com/NelsonEAX/vue-vuetify-admin/blob/master/LICENSE">
+  <a href="https://github.com/brainsolution/vue-vuetify2-admin/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
-  <a href="https://github.com/NelsonEAX/vue-vuetify-admin/releases">
-    <img src="https://img.shields.io/github/release/NelsonEAX/vue-vuetify-admin.svg" alt="GitHub release">
+  <a href="https://github.com/brainsolution/vue-vuetify2-admin/releases">
+    <img src="https://img.shields.io/github/release/brainsolution/vue-vuetify2-admin.svg" alt="GitHub release">
   </a>
   <a href="https://t.me/vue_vuetify_admin">
     <img src="https://img.shields.io/badge/telegram-join%20chat-blue.svg" alt="Telegram">
@@ -29,7 +29,7 @@
 
 ## Introduction
 
-[vue-vuetify-admin](https://nelsoneax.github.io/vue-vuetify-admin/) is a production-ready front-end solution 
+It is a production-ready front-end solution 
 for admin interfaces. It based on [vue](https://github.com/vuejs/vue) and use the 
 material design component framework [vuetify](https://github.com/vuetifyjs/vuetify).
 
@@ -37,10 +37,8 @@ It is a magical vue admin based on the newest development stack of vue, built-in
 typical templates for enterprise applications, lots of awesome features. It helps you build a 
 large complex Single-Page Applications. I believe whatever your needs are, this project will help you.
 
-- [Preview](https://NelsonEAX.github.io/vue-vuetify-admin)
-
 **The current version is `v0.0.3-alpha` build on `vue-cli`. If you find a problem, please put 
-[issue](https://github.com/NelsonEAX/vue-vuetify-admin/issues/new).**
+[issue](https://github.com/brainsolution/vue-vuetify2-admin/issues/new).**
 
 **This project does not support low version browsers (e.g. IE). Please add polyfill by yourself.**
 
@@ -58,7 +56,7 @@ all request data is simulated using [Mock.js](https://github.com/nuysoft/Mock).
 Understanding and learning this knowledge in advance will greatly help the use of this project.
 
 <p align="center">
-  <img width="900" src="https://github.com/NelsonEAX/vue-vuetify-admin/blob/master/docs/img/Dashboard.png?raw=true">
+  <img width="900" src="https://github.com/brainsolution/vue-vuetify2-admin/blob/master/docs/img/Dashboard.png?raw=true">
 </p>
 
 ## Features
@@ -134,7 +132,7 @@ Understanding and learning this knowledge in advance will greatly help the use o
 
 ```bash
 # clone the project
-git clone https://github.com/NelsonEAX/vue-vuetify-admin.git
+git clone https://github.com/brainsolution/vue-vuetify2-admin.git
 
 # enter the project directory
 cd vue-vuetify-admin
@@ -161,15 +159,9 @@ npm run test:e2e
 npm run test:unit
 ```
 
-Refer to [Documentation](https://NelsonEAX.github.io/vue-vuetify-admin-site/guide/essentials/deploy.html) for more information
-
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/NelsonEAX/vue-vuetify-admin/releases).
-
-## Online Demo
-
-[Preview](https://NelsonEAX.github.io/vue-vuetify-admin)
+Detailed changes for each release are documented in the [release notes](https://github.com/brainsolution/vue-vuetify2-admin/releases).
 
 ## Browsers support
 
@@ -181,6 +173,6 @@ Modern browsers and Internet Explorer 10+.
 
 ## License
 
-[MIT](https://github.com/NelsonEAX/vue-vuetify-admin/blob/master/LICENSE)
+[MIT](https://github.com/brainsolution/vue-vuetify2-admin/blob/master/LICENSE)
 
-Copyright (c) 2019-present NelsonEAX
+Copyright (c) 2019-present Brainsolution

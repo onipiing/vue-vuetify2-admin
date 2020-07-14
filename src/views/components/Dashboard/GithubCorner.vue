@@ -1,6 +1,6 @@
 <template>
   <a
-    href="https://github.com/NelsonEAX/vue-vuetify-admin"
+    href="https://github.com/brainsolution/vue-vuetify2-admin"
     target="_blank"
     class="github-corner"
     aria-label="View source on Github"

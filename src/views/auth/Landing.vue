@@ -260,15 +260,15 @@
               Paralax Them by
               <a
                 class="white--text"
-                href="https://github.com/vwxyzjn"
+                href="#"
                 target="_blank"
-              >Costa Huang</a>
+              >Test User</a>
               {{ info.title }} by
               <a
                 class="white--text"
-                href="https://nelsoneax.github.io"
+                href="https://github.com/brainsolution/vue-vuetify2-admin"
                 target="_blank"
-              >NelsonEAX</a>
+              >BrainSolution</a>
             </div>
           </v-col>
         </v-row>
